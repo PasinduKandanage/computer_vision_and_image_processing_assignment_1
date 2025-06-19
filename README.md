@@ -9,5 +9,5 @@ Python scripts for fundamental image processing tasks:
 
 **Tech Stack**:  
 - Python 3  
-- OpenCV ("cv2")  
+- OpenCV ('cv2')  
 - NumPy  
