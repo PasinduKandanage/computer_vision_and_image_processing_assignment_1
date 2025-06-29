@@ -11,3 +11,15 @@ Python scripts to perform fundamental image processing operations:
 - Python 3  
 - OpenCV (`cv2`) 
 - NumPy  
+
+## Usage
+  - Install dependencies:
+  - python -m venv env
+  - env\Scripts\activate
+  - pip install -r requirements.txt
+  - pip install opencv-python numpy matplotlib
+  - python Q1_intensity_level_reduction.py
+  - python Q2_spatial_averaging.py
+  - python Q3_image_rotation.py
+  - python Q4_block_averaging.py
+    
